@@ -235,7 +235,7 @@ printf "  $WHITE                      ▂▄▅███\e[1;31mXLR8\e[1;0m█�
 printf "  $RED                    I███████████████████]\n"
 printf "  $WHITE                      ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤...\n"
 echo ""
-printf "             ~~~\e[1;92m Attack Started On +91$targett \e[0m~~~"
+printf "             ~~~\e[1;92m Attack Started On +95$targett \e[0m~~~"
 sleep 1
 echo ""
 echo ""
